@@ -2,7 +2,7 @@ Rearrange
 =========
 
 This modeul is used for rearranging names.
-Turns "LastName,FirstName" into "Firstname LastName"
+Turns "LastName,FirstName" into "Firstname LastName".
 
 ## Examples
 
